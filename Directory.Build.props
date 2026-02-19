@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ItemGroup>
+    <PackageReference Update="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Update="MediatR" Version="9.0.0" />
+    <PackageReference Update="FluentValidation" Version="11.2.0" />
+    <PackageReference Update="Serilog" Version="2.10.0" />
+  </ItemGroup>
+</Project>
